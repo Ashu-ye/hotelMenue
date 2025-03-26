@@ -1,0 +1,22 @@
+🏨 Hotel Menu Ordering System
+This Python script simulates a simple hotel menu ordering system where users can order items from a predefined menu and calculate the total cost.
+
+📋 Features
+Displays a list of available items with their prices.
+
+Allows users to order one or two items.
+
+Verifies if the ordered item is available in the menu.
+
+Calculates and displays the total amount to be paid.
+
+📄 Menu Items
+🍕 Pizza: 40 Rs
+
+🍝 Pasta: 30 Rs
+
+🍟 Fries: 30 Rs
+
+🍔 Burger: 60 Rs
+
+🥤 Coke: 40 Rs
